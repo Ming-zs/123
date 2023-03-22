@@ -1,0 +1,22 @@
+{
+    "Camera":{
+        "CameraName": "5",
+        "ConfigFile": "/home/sentry/RM/Visual_IMCA-main/Source/pkg/Camera/config/armor.Config",
+        "Exposure": 10,
+        "Enable": true,
+        "//": "这个地方用来设置相机，以后还会有像内参，DPI，焦距的参数"
+    },
+    "DefaultVisualSetting": {
+        "?EnemyColor": "EnemyColor, 0代表红色，1代表蓝色",
+        "EnemyColor": 0,
+        "?SelfType": "这个是用来切换职业，目前还没有用",
+        "SelfType": 1,
+        "Mode": 0,
+        "?Mode": "切换功能"
+    },
+    "Video": {
+        "VideoPath": "",
+        "Capture": true,
+        "VideoSavePath": "../Source/video"
+    }
+}
